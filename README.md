@@ -26,3 +26,6 @@ npm run develop
 ## React
 https://www.gatsbyjs.com/docs/tutorial/getting-started/part-2/
 
+## Upload to S3
+https://dev.classmethod.jp/articles/gatsby-s3-deploy/
+https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/deploying-to-s3-cloudfront/
