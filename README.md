@@ -4,7 +4,7 @@ https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/
 ```
 npm install -g gatsby-cli
 ```
-## Deploy
+## 作成
 https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/
 ```
 gatsby new
@@ -16,4 +16,13 @@ gatsby new
 - https://github.com/gatsbyjs/gatsby/issues/37242
 
 
-起動
+### 起動
+```
+gatsby develop
+or
+npm run develop
+```
+
+## React
+https://www.gatsbyjs.com/docs/tutorial/getting-started/part-2/
+
